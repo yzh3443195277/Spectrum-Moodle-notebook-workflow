@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Spectrum (UM Moodle) announcement viewer.
 

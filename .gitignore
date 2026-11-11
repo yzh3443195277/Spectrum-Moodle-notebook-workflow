@@ -1,0 +1,17 @@
+# 凭据，绝对不要提交
+token.txt
+token.text
+
+# 本地状态文件
+.att.json
+hidden_tasks.json
+selected_courses.json
+
+# 下载下来的课程资料
+UM_Courses/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

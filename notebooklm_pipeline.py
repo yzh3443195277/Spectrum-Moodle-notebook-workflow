@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """让 NotebookLM 云端和本地 Week 文件夹保持一致，并按"周"生成 quiz 和闪卡。
 
 不依赖任何 JSON 状态文件：每次运行都是"看本地有什么、看云端有什么、把差的补齐"。

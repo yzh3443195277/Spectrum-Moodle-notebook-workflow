@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """从 SPeCTRUM (Moodle) 下载课程 PPT/PDF，只下载新增或更新过的文件。
 
 用法：

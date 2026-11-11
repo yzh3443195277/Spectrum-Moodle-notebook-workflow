@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """att - 一条命令直达 Spectrum 的 Attendance 页面（最后勾选 Present 并提交，仍由你自己在网页上完成）。
 

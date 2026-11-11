@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 列出 UM Spectrum (Moodle) 上本学期所有课程的作业 / Quiz，按紧急程度排序。
 
