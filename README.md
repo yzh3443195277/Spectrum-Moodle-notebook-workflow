@@ -3,7 +3,7 @@
 # 🥔 Spectrum Toolbox · 哦~土豆~~ 妙妙工具箱
 
 **One menu for UM Spectrum (Moodle): check in, read announcements, track deadlines, download slides, and sync them to NotebookLM.**
-
+Spectrum Toolbox is a small set of Python scripts that makes everyday life on UM Spectrum (Moodle) a little easier. From a single menu, you can open the attendance page for the class that’s on right now, catch up on announcements, see every assignment and quiz sorted by urgency, and automatically download new lecture slides into organized weekly folders. If you use NotebookLM, it can also keep your notebooks in sync with those folders and generate a quiz and flashcards for each week. No Moodle password is needed, only your personal token, and everything runs locally on your own computer.
 [English](#english) · [中文](#中文)
 
 </div>
